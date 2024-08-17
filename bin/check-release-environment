@@ -1,0 +1,8 @@
+#!/usr/bin/bash 
+
+main()
+{
+  echo "LittyAI is everything"
+}
+
+main
