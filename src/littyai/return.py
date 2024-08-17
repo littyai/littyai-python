@@ -9,10 +9,10 @@ def check(condition):
 
     if condition:
         response = "✔️ Analysis complete!\n" \
-                   "Outcome: Positive - The condition meets all criteria! 🟢"
+                   "Outcome : Positive - The condition meets all criteria! 🟢"
     else:
         response = "❌ Analysis complete!\n" \
-                   "Outcome: Negative - The condition failed to meet the criteria. 🔴"
+                   "Outcome : Negative - The condition failed to meet the criteria. 🔴"
     
     return response
 
